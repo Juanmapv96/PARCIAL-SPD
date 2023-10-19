@@ -1,6 +1,7 @@
 # PARCIAL-SPD
 
 Conecciones "fisicas" del arduino:
+
 **Primera Parte:**
 Conecciones hacia los displays de 7 al 13, cada una con una resistencia de 220 ohm.
 ♦Arduino conecciones a Display 7 segmentos:
